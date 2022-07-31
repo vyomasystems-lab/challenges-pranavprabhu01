@@ -35,7 +35,8 @@ For the mux design, inp30 needs to be added
 
 ## Design Fix
 Updating the design and re-running the test makes the test pass.
-![](https://raw.githubusercontent.com/vyomasystems-lab/challenges-pranavprabhu01/master/level1_design1/Screenshot%20(37).png?token=GHSAT0AAAAAABXE3B2WKTNYPVWCJZ6CN5HWYXGDW2A)
+![](https://github.com/vyomasystems-lab/challenges-pranavprabhu01/blob/master/level1_design1/Screenshot%20(37).png)
+
 ## Verification Strategy
 Observing the Verilog code and trying various possible inputs. The verification is complete.
 
