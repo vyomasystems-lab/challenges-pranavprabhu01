@@ -51,11 +51,7 @@ For the design, the next state should be SEQ_10
 
 ## Design Fix
 Updating the design and re-running the test makes the test pass.
-
-
-
-The updated design is checked in as adder_fix.v
+![](https://github.com/vyomasystems-lab/challenges-pranavprabhu01/blob/master/level1_design2/Screenshot%20(38).png)
 
 ## Verification Strategy
-
-## Is the verification complete ?
+Testing overlapping cases.
