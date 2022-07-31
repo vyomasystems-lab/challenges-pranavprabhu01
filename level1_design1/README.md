@@ -21,7 +21,7 @@ assert dut.out.value == A
 - Test Inputs: inp30=2
 - Expected Output: out=2
 - Observed Output in the DUT dut.out=0
-![](https://raw.githubusercontent.com/vyomasystems-lab/challenges-pranavprabhu01/master/level1_design   /Screenshot%20(31).png?token=GHSAT0AAAAAABXE3B2XWNVLBV2NZNR7H5J4YXGDS5Q)
+ ![](https://raw.githubusercontent.com/vyomasystems-lab/challenges-pranavprabhu01/master/level1_design   /Screenshot%20(31).png?token=GHSAT0AAAAAABXE3B2XWNVLBV2NZNR7H5J4YXGDS5Q)
 
 Output mismatches for the above inputs proving that there is a design bug
 
