@@ -39,10 +39,10 @@ Output mismatches for the above inputs proving that there is a design bug
 Based on the above test input and analysing the design, we see the following
 
 ```
- SEQ_10:
+ SEQ_101:
       begin
         if(inp_bit == 1)
-          next_state = SEQ_101;
+          next_state = SEQ_1011;
         else
           next_state = IDLE;    ==>Bug
 ```
