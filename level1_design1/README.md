@@ -17,10 +17,11 @@ The following error is seen:
 ```
 assert dut.out.value == A
 ```
-## Test Scenario **(Important)**
+## Test Scenario 
 - Test Inputs: inp30=2
 - Expected Output: out=2
 - Observed Output in the DUT dut.out=x
+![](https://raw.githubusercontent.com/vyomasystems-lab/challenges-pranavprabhu01/master/level1_design1/Screenshot%20(31).png?token=GHSAT0AAAAAABXE3B2XTAUR5QU7V2N7R25KYXGC73A)
 
 Output mismatches for the above inputs proving that there is a design bug
 
