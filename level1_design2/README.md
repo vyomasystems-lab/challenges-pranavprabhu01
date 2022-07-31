@@ -32,7 +32,7 @@ assert dut.seq_seen.value==1
 ## Test Scenario **(Important)**
 - Test Input:101011
 - Expected Output: out=1
-- Observed Output in the DUT dut.sum=0
+- Observed Output in the DUT dut.out=0
 
 Output mismatches for the above inputs proving that there is a design bug
 
