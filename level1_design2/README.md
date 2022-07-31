@@ -28,6 +28,7 @@ The following error is seen:
 ```
 assert dut.seq_seen.value==1
 ```
+![](https://github.com/vyomasystems-lab/challenges-pranavprabhu01/blob/master/level1_design2/Screenshot%20(33).png)
 ## Test Scenario **(Important)**
 - Test Input:101011
 - Expected Output: out=1
