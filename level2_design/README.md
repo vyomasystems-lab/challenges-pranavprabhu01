@@ -17,6 +17,7 @@ mav_putvalue_instr = 0x101010B3
 The assert statement is used for comparing the design's outut to the expected value.
 
 The following error is seen:
+![](https://github.com/vyomasystems-lab/challenges-pranavprabhu01/blob/master/level2_design/Screenshot%20(36).png)
 ```
 assert dut_output == expected_mav_putvalue, error_message
 ```
